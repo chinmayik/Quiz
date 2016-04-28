@@ -1,0 +1,9 @@
+div.main_header{
+    background-image: url("flower-image.jpg");
+    background-size: contain;
+    height:200px;
+    background-repeat: repeat;
+    color:maroon;
+    font-size: 200%;
+
+}
